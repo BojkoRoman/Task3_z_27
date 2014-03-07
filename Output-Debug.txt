@@ -1,0 +1,32 @@
+﻿'Task3_z_26.exe': Loaded 'E:\Roman\Project Visual\Task3_z_26\Debug\Task3_z_26.exe', Symbols loaded.
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\apphelp.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\AppPatch\AcLayers.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\user32.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\lpk.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\usp10.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\shell32.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\oleaut32.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\userenv.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\profapi.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\winspool.drv', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\mpr.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'ImageAtBase0x4a140000', Loading disabled by Include/Exclude setting.
+'Task3_z_26.exe': Unloaded 'ImageAtBase0x4a140000'
+The thread 'Win32 Thread' (0x12b8) has exited with code 0 (0x0).
+The program '[1072] Task3_z_26.exe: Native' has exited with code 0 (0x0).
